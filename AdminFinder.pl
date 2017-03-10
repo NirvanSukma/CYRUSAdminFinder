@@ -21,7 +21,7 @@ system('title Admin Control Panel Finder Coded by nu11-v0!d from www.openfire-se
 print"\n";
 print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n" ;
 print "          \n                 +-++-++-++-++-++-++-++-+ +-++-++-++-++-++-++-++-+-+-+-+
-                 |C||Y||R||U||S||C||Y||B||E||R |s||e||c||u||r||i||t||y             ||
+                 |C||Y||R||U||S||C||Y||B||E||R |s||e||c||u||r||i||t||y||
                  +-++-++-++-++-++-++-++-+ +-++-++-++-++-++-++-++-+-+-+-+
 \n";
 print "     CYRUSCYBERTools || AdminFinder Version 1.0    \n";
