@@ -16,7 +16,7 @@ use HTTP::Request;
 use LWP::UserAgent;
 
 system('cls');
-system('title Admin Control Panel Finder Coded by nu11-v0!d from www.openfire-security.net');
+system('title Admin Control Panel Finder Coded by MRX_001 from www.cyruscyberid.tk');
 
 print"\n";
 print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n" ;
@@ -24,9 +24,9 @@ print "          \n                 +-++-++-++-++-++-++-++-+ +-++-++-++-++-++-++
                  |C||Y||R||U||S||C||Y||B||E||R |s||e||c||u||r||i||t||y||
                  +-++-++-++-++-++-++-++-+ +-++-++-++-++-++-++-++-+-+-+-+
 \n";
-print "     CYRUSCYBERTools || AdminFinder Version 1.0    \n";
+print "                CYRUSCYBERTools || AdminFinder Version 1.0    \n";
 print "                    Copyright @ CYRUS_CYBER  \n";
-print "                           Coded By MRX_001  \n" ;
+print "                        Coded By MRX_001  \n" ;
 print "                     website:www.cyruscyberid.tk \n\n";
 print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n" ;
 print "\n";
