@@ -1,10 +1,10 @@
-# CYRUSTOOL
+# ADMIN FINEDER SCANNER
 Perl AdminFinder
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                                   
-                                CYRUSTOOL                                                                                                                                              
+                             ADMINFINDER                                                                                                                                              
                          Welcome and dont disclaimer                                                           
                           Author By -Nirvan Sukma-                                                          
                                                                                                             
